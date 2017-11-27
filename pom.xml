@@ -132,13 +132,6 @@
 			<version>19.0</version>
 		</dependency>
 	</dependencies>
-	<pluginRepositories>
-		<pluginRepository>
-			<id>comphenix-rep</id>
-			<name>Comphenix Maven Releases</name>
-			<url>http://repo.comphenix.net/content/groups/public</url>
-		</pluginRepository>
-	</pluginRepositories>
 	<repositories>
 		<repository>
 			<id>Jenkins-repo</id>
